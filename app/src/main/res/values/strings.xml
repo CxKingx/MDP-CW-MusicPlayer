@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MediaPlayerCW</string>
+    <string name="title_activity_background_change">BackgroundChange</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="songs">Songs</string>
+    <string name="there_are_no_songs_in_this_device">There are no songs in this Device</string>
+    <string name="backgrounds">Backgrounds</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="go_back">Go back</string>
+    <string name="background_change">Background Change</string>
+    <string name="orange">Orange</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="purple">Purple</string>
+    <string name="pink">Pink</string>
+    <string name="Song_Title" />
+    <string name="song_title">Song Title</string>
+    <string name="O">0</string>
+    <string name="o_00">O:00</string>
+</resources>
